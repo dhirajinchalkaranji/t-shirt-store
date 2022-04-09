@@ -1,0 +1,26 @@
+{
+    "shippingInfo":{
+        "address": "1 Jaipur",
+        "city": "Jaipur",
+        "phoneNo": "123456789",
+        "postalCode": "302020",
+        "state": "Rajasthan",
+        "country": "India"
+    },
+    "orderItems":[
+        {
+            
+            "name": "A pro coder T Shirt",
+            "quantity":1,
+            "image": "https://res.cloudinary.com/dhiraj-org/image/upload/v1648671723/products/tnwfezy0rcninnzhcfrl.png",
+            "price": 689,
+            "product": "62401e37c6e481648a991b79"
+        }
+    ],
+    "paymentInfo": {
+        "id":"testString"
+    },
+    "taxAmount": 40,
+    "shippingAmount": 10,
+    "totalAmount":100
+}
