@@ -2,7 +2,7 @@ const Product = require("../models/product");
 const BigPromise = require("../middlewares/bigPromise");
 const CustomError = require("../utils/CustomError");
 const cloudinary = require("cloudinary");
-const WhereClause = require("../utils/whereClause");
+const WhereClause = require("../utils/WhereClause");
 
 // user only controller
 
